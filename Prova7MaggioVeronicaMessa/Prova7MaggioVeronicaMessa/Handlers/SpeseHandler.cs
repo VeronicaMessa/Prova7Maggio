@@ -47,8 +47,8 @@ namespace Prova7MaggioVeronicaMessa.Handlers
             }
     
         }
-         
-        public override string Handle (string request)
+
+        public override string Handle(string request)
         {
             if(Importo <= 400)
             {
