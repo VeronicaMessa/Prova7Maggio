@@ -1,0 +1,4 @@
+08/03/2021;Viaggio;Viaggio1;300
+05/04/2021;Affitto;Affitto1;500
+07/02/2021;Viaggio;Viaggio2;2000
+02/03/2021;Affitto;Affitto2;3000
